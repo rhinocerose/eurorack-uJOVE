@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "uJOVE7-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/uJOVE7-eagle-import.kicad_sym")(options "")(descr ""))
+)

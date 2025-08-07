@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "uJOVE7")(type "KiCad")(uri "$(KIPRJMOD)/uJOVE7.pretty")(options "")(descr ""))
+)
